@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Yuri Koval 👋
 
-<!--
-**YuriKoval0315/YuriKoval0315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer with a deep passion for creating efficient and innovative solutions. My journey in the world of programming has allowed me to explore a diverse range of technologies, from front-end frameworks like React to powerful back-end tools such as Node.js, Laravel and MongoDB. With a keen eye for design and a love for problem-solving, I strive to craft delightful experiences for users and robust systems that stand the test of time.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **React**
+- **JavaScript**
+- **Node.js**
+- **Express.js**
+- **Laravel**
+- **MongoDB**
+- **HTML5/CSS3**
+- **Bootstrap**
+- **Python**
+- **TensorFlow**
+- **Kearas**
+- **Machine Learning**
+- **NLP**
